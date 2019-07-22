@@ -1,0 +1,27 @@
+{
+  "name": "fe-generator",
+  "version": "1.0.0",
+  "description": "Creates a boilerplate front end app with html, css, and js. Initializes a git repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awhit012/fe-generator.git"
+  },
+  "keywords": [
+    "project",
+    "generator",
+    "front",
+    "end",
+    "javascript",
+    "html"
+  ],
+  "author": "Alex White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awhit012/fe-generator/issues"
+  },
+  "homepage": "https://github.com/awhit012/fe-generator#readme"
+}
